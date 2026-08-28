@@ -4,6 +4,10 @@ A browser-based infinite whiteboard for sketching, notes, and diagrams.
 
 Create shapes, draw freely, connect ideas, add images, and organize your work across multiple canvases. Everything is saved locally in your browser — no account or backend required.
 
+<p align="center">
+  <img src="[YOUR_IMAGE_PERMALINK](https://github.com/Hloniphani-Dube/color/blob/1f781dfe848a5edc90278a9e4dc66844d31e4f03/1.png)" alt="Color whiteboard preview" width="900">
+</p>
+
 ## Tech Stack
 
 * React
@@ -17,11 +21,29 @@ Create shapes, draw freely, connect ideas, add images, and organize your work ac
 ## Features
 
 * Infinite canvas with pan and zoom
+  <p align="center">
+    <img src="https://github.com/Hloniphani-Dube/color/blob/1f781dfe848a5edc90278a9e4dc66844d31e4f03/2.png" alt="Color whiteboard preview" width="900">
+  </p>
 * Freehand drawing, marker, and highlighter
+  <p align="center">
+    <img src="https://github.com/Hloniphani-Dube/color/blob/1f781dfe848a5edc90278a9e4dc66844d31e4f03/3.png" alt="Color whiteboard preview" width="900">
+  </p>
 * Shapes, text, images, and connectors
+  <p align="center">
+    <img src="https://github.com/Hloniphani-Dube/color/blob/1f781dfe848a5edc90278a9e4dc66844d31e4f03/4.png" alt="Color whiteboard preview" width="900">
+  </p>
 * Straight, curved, and elbow connectors
+  <p align="center">
+    <img src="https://github.com/Hloniphani-Dube/color/blob/1f781dfe848a5edc90278a9e4dc66844d31e4f03/5.png" alt="Color whiteboard preview" width="900">
+  </p>
 * Multiple canvases
+  <p align="center">
+    <img src="https://github.com/Hloniphani-Dube/color/blob/1f781dfe848a5edc90278a9e4dc66844d31e4f03/6.png" alt="Color whiteboard preview" width="900">
+  </p>
 * Light and dark themes
+  <p align="center">
+    <img src="https://github.com/Hloniphani-Dube/color/blob/1f781dfe848a5edc90278a9e4dc66844d31e4f03/7.png" alt="Color whiteboard preview" width="900">
+  </p>
 * Grid and snap-to-grid
 * Undo and redo
 * Multi-selection and object manipulation
@@ -29,6 +51,9 @@ Create shapes, draw freely, connect ideas, add images, and organize your work ac
 * PNG, SVG, and JSON export
 * Automatic local saving
 * Keyboard shortcuts
+  <p align="center">
+    <img src="https://github.com/Hloniphani-Dube/color/blob/1f781dfe848a5edc90278a9e4dc66844d31e4f03/8.png" alt="Color whiteboard preview" width="900">
+  </p>
 
 ## Getting Started
 
