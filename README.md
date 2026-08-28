@@ -51,9 +51,6 @@ Create shapes, draw freely, connect ideas, add images, and organize your work ac
 * PNG, SVG, and JSON export
 * Automatic local saving
 * Keyboard shortcuts
-  <p align="center">
-    <img src="https://github.com/Hloniphani-Dube/color/blob/1f781dfe848a5edc90278a9e4dc66844d31e4f03/8.png" alt="Color whiteboard preview" width="900">
-  </p>
 
 ## Getting Started
 
