@@ -108,7 +108,3 @@ Export your active canvas as:
 * **PNG** — raster image
 * **SVG** — vector image
 * **JSON** — editable board data for backup or re-import
-
-## License
-
-This project is licensed under the MIT License.
