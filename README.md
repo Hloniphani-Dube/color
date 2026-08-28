@@ -5,7 +5,7 @@ A browser-based infinite whiteboard for sketching, notes, and diagrams.
 Create shapes, draw freely, connect ideas, add images, and organize your work across multiple canvases. Everything is saved locally in your browser — no account or backend required.
 
 <p align="center">
-  <img src="[YOUR_IMAGE_PERMALINK](https://github.com/Hloniphani-Dube/color/blob/1f781dfe848a5edc90278a9e4dc66844d31e4f03/1.png)" alt="Color whiteboard preview" width="900">
+  <img src="https://github.com/Hloniphani-Dube/color/blob/1f781dfe848a5edc90278a9e4dc66844d31e4f03/1.png" alt="Color whiteboard preview" width="900">
 </p>
 
 ## Tech Stack
